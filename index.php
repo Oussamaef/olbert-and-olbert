@@ -57,25 +57,25 @@
         </div>
     </div>
 </section>
-        <!-- Admission-->
-        <section class="page-section" id="Admission">
+        <!-- Video-->
+<section class="page-section" id="Admission">
     <div class="container px-4 px-lg-5">
         <h2 class="text-center mt-0">Video</h2>
         <hr class="divider" />
         <div class="row">
             <div class="col-md-4">
                 <div style="margin-bottom: 20px;">
-                    <iframe src="https://www.youtube.com/embed/R_agd5qZ26Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 100%; height: 200px;" autoplay></iframe>
+                    <iframe width="100%" height="500" src="https://www.youtube.com/embed/lk3FjO7_7Mc?autoplay=1&mute=1&loop=1&playlist=lk3FjO7_7Mc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="col-md-4">
                 <div style="margin-bottom: 20px;">
-                    <iframe src="https://www.youtube.com/embed/R_agd5qZ26Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 100%; height: 200px;" autoplay></iframe>
+                    <iframe width="100%" height="500" src="https://www.youtube.com/embed/076T8S4N2HU?autoplay=1&mute=1&loop=1&playlist=076T8S4N2HU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
             <div class="col-md-4">
                 <div style="margin-bottom: 20px;">
-                    <iframe src="https://www.youtube.com/embed/R_agd5qZ26Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="width: 100%; height: 200px;" autoplay></iframe>
+                <iframe width="100%" height="500" src="https://www.youtube.com/embed/vkjUOuYkTnE?autoplay=1&mute=1&loop=1&playlist=vkjUOuYkTnE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
