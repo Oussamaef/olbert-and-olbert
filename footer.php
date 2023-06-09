@@ -8,10 +8,10 @@
                     <div class="col-md-3">
                       <h5>Our Products</h5>
                       <ul class="list-unstyled mt-3 ">
-                        <li class="mt-2"><i class=""></i> <a href="#">Penis</a></li>
-                        <li class="mt-2"><i class=""></i> <a href="#">Breast</a></li>
-                        <li class="mt-2"><i class=""></i> <a href="#">Booty</a></li>
-                        <li class="mt-2"><i class=""></i> <a href="#">Lubricants</a></li>
+                        <li class="mt-2"><i class=""></i> <a href="product page/penis.php" target="_blank">Penis</a></li>
+                        <li class="mt-2"><i class=""></i> <a href="product page/breast.php" target="_blank">Breast</a></li>
+                        <li class="mt-2"><i class=""></i> <a href="product page/booty.php" target="_blank">Booty</a></li>
+                        <li class="mt-2"><i class=""></i> <a href="product page/lubricant.php" target="_blank">Lubricants</a></li>
                       </ul>
                     </div>
                     <div class="col-md-3">
