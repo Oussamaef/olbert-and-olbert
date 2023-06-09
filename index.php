@@ -43,16 +43,16 @@
         <hr class="divider" />
         <div class="row text-center mt-5">
             <div class="col-md-3">
-                <a href="product page/dist/index.html" class="text-white mt-0 ap ap:hover" name="h2premiere" target="_blank">Penis</a>
+                <a href="product page/penis.php" class="text-white mt-0 ap ap:hover" name="h2premiere" target="_blank">Penis</a>
             </div>
             <div class="col-md-3">
-                <a href="#" class="text-white mt-0 ap" name="h2premiere">Booty</a>
+            <a href="product page/booty.php" class="text-white mt-0 ap ap:hover" name="h2premiere" target="_blank">Booty</a>
             </div>
             <div class="col-md-3">
-                <a href="#" class="text-white mt-0 ap" name="h2premiere">Breast</a>
+            <a href="product page/breast.php" class="text-white mt-0 ap ap:hover" name="h2premiere" target="_blank">Breast</a>
             </div>
             <div class="col-md-3">
-                <a href="#" class="text-white mt-0 ap" name="h2premiere">Lubricant</a>
+            <a href="product page/lubricant.php" class="text-white mt-0 ap ap:hover" name="h2premiere" target="_blank">Lubricant</a>
             </div>
         </div>
     </div>
